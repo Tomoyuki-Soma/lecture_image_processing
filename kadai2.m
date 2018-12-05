@@ -36,5 +36,5 @@ pause;
 
 以下に実行結果である原画像、2階調画像、4階調画像、8階調画像を示す。
 
-![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/原画像.fig)  
+![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/原画像.jpg)  
 図１　原画像
