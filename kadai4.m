@@ -1,18 +1,19 @@
-% ‰Û‘è‚S@‰æ‘œ‚ÌƒqƒXƒgƒOƒ‰ƒ€
-% ‰æ‘f‚Ì”Z“xƒqƒXƒgƒOƒ‰ƒ€‚ğ¶¬‚¹‚æD
-% ‰º‹L‚ÍƒTƒ“ƒvƒ‹ƒvƒƒOƒ‰ƒ€‚Å‚ ‚éD
-% ‰Û‘èì¬‚É‚ ‚½‚Á‚Ä‚ÍuLennavˆÈŠO‚Ì‰æ‘œ‚ğ—p‚¢‚æD
+èª²é¡Œï¼”ã€€ç”»åƒã®ãƒ’ã‚¹ãƒˆã‚°ãƒ©ãƒ <br>
+ç”»ç´ ã®æ¿ƒåº¦ãƒ’ã‚¹ãƒˆã‚°ãƒ©ãƒ ã‚’ç”Ÿæˆã›ã‚ˆã€‚<br>
+ä»¥ä¸‹ã«ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã‚’ç¤ºã™ã€‚<br>
 
-clear; % •Ï”‚ÌƒI[ƒ‹ƒNƒŠƒA
+clear; % å¤‰æ•°ã®ã‚ªãƒ¼ãƒ«ã‚¯ãƒªã‚¢<br>
 
-ORG=imread('Lenna.png'); % Œ´‰æ‘œ‚Ì“ü—Í
-ORG=rgb2gray(ORG); % ƒJƒ‰[‰æ‘œ‚ğ”’•”Z’W‰æ‘œ‚Ö•ÏŠ·
-imagesc(ORG); colormap(gray); colorbar;
-pause;
+ORG=imread('ã‚ã‚Šã•.jpg'); % åŸç”»åƒã®å…¥åŠ›<br>
+ORG=rgb2gray(ORG); % ã‚«ãƒ©ãƒ¼ç”»åƒã‚’ç™½é»’æ¿ƒæ·¡ç”»åƒã¸å¤‰æ›<br>
+imagesc(ORG); colormap(gray); colorbar;<br>
+pause;<br>
 
-imhist(ORG); % ƒqƒXƒgƒOƒ‰ƒ€‚Ì•\¦
+imhist(ORG); % ãƒ’ã‚¹ãƒˆã‚°ãƒ©ãƒ ã®è¡¨ç¤º<br>
 
-
-
-
+ä»¥ä¸‹ã«å®Ÿè¡Œçµæœã§ã‚ã‚‹ç™½é»’æ¿ƒæ·¡ç”»åƒã€ãƒ’ã‚¹ãƒˆã‚°ãƒ©ãƒ ã‚’ç¤ºã™ã€‚<br>
+![åŸç”»åƒ](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai4/Image0.png)<br>  
+ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€å›³ï¼‘ã€€ç™½é»’æ¿ƒæ·¡ç”»åƒ<br>
+![åŸç”»åƒ](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai4/Image.png)<br>  
+ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€ã€€å›³ï¼’ã€€ãƒ’ã‚¹ãƒˆã‚°ãƒ©ãƒ <br>
 
