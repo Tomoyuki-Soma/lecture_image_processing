@@ -40,3 +40,10 @@ pause;
 図１　原画像
 
 ![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai2/Image2.png)
+図２　2階調画像
+
+![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai2/Image4.png)
+図３　4階調画像
+
+![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai2/Image8.png)
+図４　8階調画像
