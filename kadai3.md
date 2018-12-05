@@ -27,15 +27,15 @@ imagesc(IMG); colormap(gray); colorbar;<br>
 
 以下に実行結果である白黒濃淡画像、輝度値ごとの画像を示す。<br>
 ![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai3/Image0.jpg)<br>  
-　　　　　　　　　　　　　　図１　白黒濃淡画像<br>
+　　　　　　　　　　　図１　白黒濃淡画像<br>
 ![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai3/Image1.jpg)<br>  
-　　　　　　　　　　　　　　図２　輝度値64以上の画像<br>
+　　　　　　　　　　　図２　輝度値64以上の画像<br>
 ![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai3/Image2.jpg)<br>  
-　　　　　　　　　　　　　　図３　輝度値96以上の画像<br>
+　　　　　　　　　　　図３　輝度値96以上の画像<br>
 ![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai3/Image3.jpg)<br>  
-　　　　　　　　　　　　　　図４　輝度値128以上の画像<br>
+　　　　　　　　　　　図４　輝度値128以上の画像<br>
 ![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai3/Image4.jpg)<br>  
-　　　　　　　　　　　　　　図５　輝度値192以上の画像<br>
+　　　　　　　　　　　図５　輝度値192以上の画像<br>
 
 
 
