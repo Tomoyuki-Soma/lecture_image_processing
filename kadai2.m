@@ -38,3 +38,5 @@ pause;
 
 ![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/Origin Image.jpg)  
 図１　原画像
+
+![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/Image2.jpg)
