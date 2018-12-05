@@ -37,7 +37,7 @@ pause;<br>
 以下に実行結果である白黒濃淡画像、2階調画像、4階調画像、8階調画像を示す。
 
 ![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai2/Image0.png)<br>  
-　　　　　　　　　　　　　　図１　白黒濃淡画像<br>
+　　　　　　　　　　　　　図１　白黒濃淡画像<br>
 
 ![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai2/Image2.png)<br>
 　　　　　　　　　　　　　図２　2階調画像<br>
