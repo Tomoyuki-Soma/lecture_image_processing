@@ -19,8 +19,8 @@ imagesc(IMG); colormap(gray); colorbar; % 画像の表示
 
 以下に実行結果である白黒濃淡画像、128による二値化画像、ディザ法による二値化画像を示す。
 ![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai6/Image0.png)<br>  
-　　　　　　　　　　　　　　　　　　図１　白黒濃淡画像<br>
+　　　　　　　　　　　　　　　　　　　　　　　　　図１　白黒濃淡画像<br>
 ![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai6/Image1.png)<br>  
-　　　　　　　　　　　　　　　　　　図２　128による二値化画像<br>
+　　　　　　　　　　　　　　　　　　　　　図２　128による二値化画像<br>
 ![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai6/Image2.png)<br>  
-　　　　　　　　　　　　　　　　　　図３　ディザ法による二値化画像<br>
+　　　　　　　　　　　　　　　　　　　　図３　ディザ法による二値化画像<br>
