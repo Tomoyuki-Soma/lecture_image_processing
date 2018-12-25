@@ -16,7 +16,7 @@ IMG = dither(ORG); % ディザ法による二値化<br>
 imagesc(IMG); colormap(gray); colorbar; % 画像の表示<br>
 <br>
 原画像を図１に示す。<br>
-![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai6/Image0.png)<br> 
+![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai6/百合子.jpg)<br> 
 　　　　　　　　　　　　　　　　　　　　　　　図１　原画像<br>
                        <br>
 以下に実行結果である白黒濃淡画像、128による二値化画像、ディザ法による二値化画像を示す。<br>
