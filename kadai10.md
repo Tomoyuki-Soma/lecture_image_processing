@@ -23,13 +23,13 @@ pause; % 一時停止<br>
 　　　　　　　　　　　　　　　　図１　原画像<br>
 <br>
 以下に実行結果である白黒濃淡画像、プレウィット法でエッジ抽出した画像、ソベル法でエッジ抽出した画像、キャニー法でエッジ抽出した画像を示す。<br>
-![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai10/杏奈６.jpg)<br> 
-　　　　　　　　　　　　　　　　図２　白黒濃淡画像<br>
 ![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai10/Image0.png)<br> 
-　　　　　　　　　　　　図３　プレウィット法でエッジ抽出した画像<br>
+　　　　　　　　　　　　　　　　図２　白黒濃淡画像<br>
 ![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai10/Image1.png)<br> 
-　　　　　　　　　　　　　　図４　ソベル法でエッジ抽出した画像<br>
+　　　　　　　　　　　　図３　プレウィット法でエッジ抽出した画像<br>
 ![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai10/Image2.png)<br> 
+　　　　　　　　　　　　　　図４　ソベル法でエッジ抽出した画像<br>
+![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai10/Image3.png)<br> 
 　　　　　　　　　　　　　　図５　キャニー法でエッジ抽出した画像<br>
 <br>
 プレウィット法は、注目しているものの輪郭を抽出していることがわかる。<br>
