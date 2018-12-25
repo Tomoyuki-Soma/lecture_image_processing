@@ -22,19 +22,19 @@ pause;<br>
 
 原画像を図１に示す。<br>
 ![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai9/杏奈５.jpg)<br> 
-　　　　　　　　　　　　　　　　　　図１　原画像<br>
+　　　　　　　　　　　　　　　　図１　原画像<br>
 <br>
 以下に実行結果である白黒濃淡画像、ノイズを添付した画像、、平滑化フィルタを適用した画像、メディアンフィルタを適用した画像、設計したフィルタを適用した画像を示す。<br>
 ![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai9/Image0.png)<br> 
 　　　　　　　　　　　　　　　　　　　　　　図２　白黒濃淡画像<br>
 ![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai9/Image1.png)<br> 
-　　　　　　　　　　　　　　　　　　　　　　図３　ノイズを添付した画像<br>
+　　　　　　　　　　　　　　　　　　　　図３　ノイズを添付した画像<br>
 ![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai9/Image2.png)<br> 
-　　　　　　　　　　　　　　　　　　　　　図４　平滑化フィルタを適用した画像<br>
+　　　　　　　　　　　　　　　　　　　図４　平滑化フィルタを適用した画像<br>
 ![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai9/Image3.png)<br> 
-　　　　　　　　　　　　　　　　　　　　図５　メディアンフィルタを適用した画像<br>
+　　　　　　　　　　　　　　　　　　図５　メディアンフィルタを適用した画像<br>
 ![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai9/Image4.png)<br> 
-　　　　　　　　　　　　　　　　　　　　　図５　設計したフィルタを適用した画像<br>
+　　　　　　　　　　　　　　　　　　　図５　設計したフィルタを適用した画像<br>
 
 平滑化フィルタは着目画素の周囲の平均値を取るもので、図４を見ると、ぼやけており、ノイズも残っていることがわかる。<br>
 メディアンフィルタは着目画素の周囲との中央値を取るもので、図５を見ると、ぼやけることもなく、ノイズも除去できていることがわかる。<br>
