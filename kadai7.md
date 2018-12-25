@@ -1,6 +1,5 @@
 課題7　ダイナミックレンジの拡大<br>
 画素のダイナミックレンジを０から２５５にせよ． <br>
-
 <br>
 ORG = imread('杏奈４.jpg'); % 画像の読み込み<br>
 ORG = rgb2gray(ORG); % 白黒濃淡画像に変換<br>
@@ -16,10 +15,10 @@ imagesc(ORG); colormap(gray); colorbar; % 画像の表示<br>
 pause;<br>
 ORG = uint8(ORG); % この行について考察せよ<br>
 imhist(ORG); % 濃度ヒストグラムを生成、表示<br>
-
+<br>
 原画像を図１に示す。<br>
 ![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai7/杏奈４.jpg)<br> 
-　　　　　　　　　　　　　　　　　　　　　　図１　原画像<br>
+　　　　　　　　　　　　　　　　　　図１　原画像<br>
                      <br>
 以下に実行結果である白黒濃淡画像、濃度ヒストグラム、ダイナミックレンジ拡大後の画像、ダイナミックレンジ拡大後の濃度ヒストグラムを示す。
 ![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai7/Image0.png)<br> 
