@@ -20,7 +20,7 @@ imagesc(IMG); colormap(gray); colorbar; % 画像の表示<br>
 pause;<br>
 <br>
 
-原画像を図１に示す。
+原画像を図１に示す。<br>
 ![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai9/杏奈５.jpg)<br> 
 　　　　　　　　　　　　　　　　　　図１　原画像<br>
 <br>
