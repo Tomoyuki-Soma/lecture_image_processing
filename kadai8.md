@@ -19,9 +19,9 @@ pause;<br>
 以下に実行結果である白黒濃淡画像、閾値128で2値化した画像、ラベリングした画像を示す。<br>
 ![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai8/Image0.png)<br> 
 　　　　　　　　　　　　　　　　　　　　　　　図２　白黒濃淡画像<br>
-![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai8/Image0.png)<br> 
+![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai8/Image1.png)<br> 
 　　　　　　　　　　　　　　　　　　　　　図３　閾値128で2値化した画像<br>
-![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai8/Image0.png)<br> 
+![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai8/Image2.png)<br> 
 　　　　　　　　　　　　　　　　　　　　　図４　図３をラベリングした画像<br>
 これよりIMG = ORG > 128; で閾値を輝度値128に設定し、2値化していることがわかり、IMG = bwlabeln(IMG);でラベリングしていることが分かった。<br>
 また、図３は多くのまとまった連結成分によって成り立っていることがわかる。<br>
