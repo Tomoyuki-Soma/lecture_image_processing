@@ -34,7 +34,7 @@ pause;<br>
 <br>
 原画像を図１に示す。<br>
 ![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai5/志保.jpg)<br> 
-　　　　　　　　　　　　　　　　図１　原画像<br>
+　　　　　　　　　　　　　　　　　　　　　　　　図１　原画像<br>
 <br>
 以下に実行結果である白黒濃淡画像、二値化した画像を示す。
 ![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai5/Image0.png)<br>  
