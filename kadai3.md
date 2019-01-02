@@ -42,4 +42,4 @@ imagesc(IMG); colormap(gray); colorbar;<br>
 　　　　　　　　　　　図６　輝度値192以上の画像<br>
 <br>
 
-
+これらの結果より閾値が大きくなるにつれて黒い部分が増えていることが分かる。
