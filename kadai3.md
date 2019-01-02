@@ -27,7 +27,7 @@ imagesc(IMG); colormap(gray); colorbar;<br>
 
 原画像を図１に示す。<br>
 ![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai3/ロコ.jpg)<br> 
-　　　　　　　　　　　　図１　原画像<br>
+　　　　　　　　　　図１　原画像<br>
 <br>
 以下に実行結果である白黒濃淡画像、輝度値ごとの画像を示す。<br>
 ![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai3/Image0.jpg)<br>  
