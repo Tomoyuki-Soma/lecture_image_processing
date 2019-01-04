@@ -35,7 +35,7 @@ imagesc(IMG); colormap(gray); colorbar;  axis image;<br>
 pause;<br>
 
 原画像を図１に示す。<br>
-![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai9/杏奈１.jpg)<br> 
+![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai2/杏奈１.jpg)<br> 
 　　　　　　　　　　　　　　　　図１　原画像<br>
 <br>
 
