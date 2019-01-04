@@ -34,10 +34,10 @@ IMG = IMG0 + IMG1 + IMG2 + IMG3 + IMG4 + IMG5+ IMG6;<br>
 imagesc(IMG); colormap(gray); colorbar;  axis image;<br>
 pause;<br>
 
-原画像を図１に示す。<br>
-![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai2/杏奈１.jpg)<br> 
-　　　　　　　　　　　　　　　　図１　原画像<br>
-<br>
+//原画像を図１に示す。<br>
+//![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai2/杏奈１.jpg)<br> 
+//　　　　　　　　　　　　　　　　図１　原画像<br>
+//<br>
 
 以下に実行結果である白黒濃淡画像、2階調画像、4階調画像、8階調画像を示す。
 <br>
