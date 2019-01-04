@@ -40,15 +40,16 @@ pause;<br>
 <br>
 
 以下に実行結果である白黒濃淡画像、2階調画像、4階調画像、8階調画像を示す。
-
+<br>
 ![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai2/Image0.png)<br>  
 　　　　　　　　　　　　　図２　白黒濃淡画像<br>
-
+<br>
 ![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai2/Image2.png)<br>
 　　　　　　　　　　　　　図３2階調画像<br>
-
+<br>
 ![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai2/Image4.png)<br>
 　　　　　　　　　　　　　図４　4階調画像<br>
-
+<br>
 ![原画像](https://github.com/Tomoyuki-Soma/lecture_image_processing/blob/master/kadai2/Image8.png)<br>
 　　　　　　　　　　　　　図５　8階調画像<br>
+<br>
